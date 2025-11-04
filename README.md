@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-I'm Speedie, a 22-year-old application developer from Switzerland with a passion for creating unique and innovative software solutions. I am a trained IT specialist in application development, currently seeking new job opportunities. While on my job hunt, I dedicate my time to building creative side projects that reflect my journey, skills, and love for technology.
+I'm Speedie, a 22-year-old Software Developer from Germany with a passion for creating unique and innovative software solutions. 
 
 - 🌍 Based in Germany
 - 👩‍💻 Profession: Application Developer (IT Specialist)
