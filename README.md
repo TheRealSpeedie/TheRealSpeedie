@@ -20,7 +20,7 @@ I'm Speedie, a 22-year-old Software Developer from Germany with a passion for cr
 
 ## 🌟 Featured Projects
 
-- **[Portfolio](https://www.speedie.ch/)**  
+- **[Portfolio](https://www.aileenkoesters.com/)**  
   _A game-style, one-of-a-kind portfolio built with React. Everything about me, presented in a playful and interactive way._
 
 - **[Conway's Game of Life](https://github.com/TheRealSpeedie/ConwaysGameOfLife)**  
