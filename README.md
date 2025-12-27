@@ -23,7 +23,7 @@ My work combines technical structure with creative freedom – from architecture
 ## Selected Projects
 
 - **[Portfolio](https://www.aileenkoesters.com/)**  
-  _A creative yet professional React-based portfolio with language switching, light/dark mode and a strong visual identity._
+  _A creative yet professional React-based portfolio with language switching and a strong visual identity._
 
 - **[Conway's Game of Life](https://github.com/TheRealSpeedie/ConwaysGameOfLife)**  
   _A classic concept reimagined with a clean structure, thoughtful UI and solid test coverage._
