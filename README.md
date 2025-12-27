@@ -39,6 +39,3 @@ My work combines technical structure with creative freedom – from architecture
 
 I love experimenting with new ideas and turning them into reality, always with a unique twist!
 
----
-
-I enjoy working on projects where creativity, structure and new ideas meet.
